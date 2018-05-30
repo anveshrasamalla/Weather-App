@@ -1,0 +1,30 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Weather App in Node JS and Express JS",
+  "main": "server.js",
+  "scripts": {
+    "test": "\"sample\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anveshrasamalla/weather-app.git"
+  },
+  "keywords": [
+    "weather",
+    "node",
+    "express"
+  ],
+  "author": "Anvesh RASAMALLA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anveshrasamalla/weather-app/issues"
+  },
+  "homepage": "https://github.com/anveshrasamalla/weather-app#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "request": "^2.87.0"
+  }
+}
